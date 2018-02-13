@@ -189,11 +189,6 @@ img::-moz-selection {
 header.masthead {
   text-align: center;
   color: white;
-  padding: 0;
-  display: block;
-  margin: 0;
-  max-height: auto;
-  max-width: 99%;
   background-image: url("../img/header-bg.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -225,10 +220,6 @@ header.fitimage {
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
-  display: block;
-  margin: 0;
-  max-height: auto;
-  max-width: 99%;
 }
 
 header.masthead .intro-text .intro-lead-in {
@@ -251,10 +242,6 @@ header.masthead .intro-text .intro-heading {
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
-    display: block;
-    margin: 0;
-    max-height: auto;
-    max-width: 99%;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
