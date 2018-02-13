@@ -120,7 +120,7 @@ img::-moz-selection {
 }
 
 #mainNav {
-  background-color: #fed136;
+  background-color: #FCDF3D;
 }
 
 #mainNav .navbar-toggler {
@@ -197,6 +197,9 @@ header.masthead {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  width:100vw;
+  height:auto;
+
 }
 
 header.fitimage {
@@ -220,6 +223,8 @@ header.fitimage {
 header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
+  width:100vw;
+  height:auto;
 }
 
 header.masthead .intro-text .intro-lead-in {
@@ -242,6 +247,8 @@ header.masthead .intro-text .intro-heading {
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
+    width:100vw;
+    height:auto;
   }
   header.masthead .intro-text .intro-lead-in {
     font-size: 40px;
