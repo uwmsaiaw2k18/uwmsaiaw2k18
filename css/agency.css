@@ -222,7 +222,7 @@ header.fitimage {
   background-size: cover;
 }
 
-header.fitimage .intro-text {
+header.masthead .intro-text {
   padding-top: 150px;
   padding-bottom: 100px;
   display: block;
@@ -248,7 +248,7 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
-  header.fitimage .intro-text {
+  header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
     display: block;
